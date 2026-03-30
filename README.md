@@ -5,7 +5,7 @@
 ## ⚡ Decoding the Future... One APK at a Time
 - 🛠️ **Current State:** Balancing Class 12 Boards with high-performance **Android Development**.
 - 🧠 **Obsession:** Converting complex logic into clean **Java & Kotlin** code.
-- 🧪 **Experimenting:** Pushing the boundaries of **Generative AI** and **Prompt Engineering** to automate the mundane.
+- 🧪 **Experimenting:** Pushing the boundaries of **Generative AI** and **Prompt Engineering**.
 - 🎯 **Mission:** Building lightweight, scalable mobile solutions that solve real-world problems.
 - 💬 **Direct Line:** Ping me on Telegram **[@anuryny](https://t.me/anuryny)**
 
@@ -22,7 +22,7 @@
 
 ## 📊 Performance Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ethose-exe&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=ethose-exe&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethose-exe&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="400" />
 </p>
 
