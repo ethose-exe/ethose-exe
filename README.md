@@ -32,13 +32,23 @@
 
 ---
 
+
 ## 🏆 Trophies & Contributions
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ethose-exe&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
+## 📜 Verified Certifications
 
+<p align="left">
+  <a href="YOUR_PUBLIC_BADGE_URL_HERE">
+    <img src="https://api.accredible.com/v1/frontend/render/badge/YOUR_BADGE_ID" width="150" alt="Google Cloud Generative AI Badge">
+  </a>
+  <a href="YOUR_CISCO_URL">
+    <img src="https://images.credly.com/images/YOUR_CISCO_IMAGE_ID" width="150" alt="Cisco Badge">
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethose-exe&theme=tokyo-night" width="800" />
 </p>
